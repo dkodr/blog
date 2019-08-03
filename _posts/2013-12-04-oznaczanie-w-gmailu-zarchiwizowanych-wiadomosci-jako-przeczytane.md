@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Jak w Gmailu automatycznie oznaczyń zarchiwizowane wiadomości jako przeczytane
 ---
@@ -7,7 +7,7 @@ Nie potrafię wytłumaczyć dlaczego (może to nerwica natręctw), ale nie lubi�
 
 Zarówno interfejs webowy, jak i aplikacja na Androida nie pozwalają **jednym kliknięciem** zaznaczyć wiadomości jako przeczytaną oraz zarchiwizować ją. Tutaj z pomocą przychodzą Skrypty Google. Wchodzimy na https://script.google.com/, tworzymy nowy projekt, w którym umieszczamy następujący kod:
 
-```
+```javascript
 function archiveAsRead() {
   // Finds unread messages in the archive and marks them as read
   var threads = GmailApp.search('label:unread -label:"inbox" -label:"trash" -label:"sent" -label:"spam" -label:"chats"');
