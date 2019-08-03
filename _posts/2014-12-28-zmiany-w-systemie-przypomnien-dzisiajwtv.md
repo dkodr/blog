@@ -3,8 +3,6 @@ published: true
 title: Zmiany w systemie przypomnień @dzisiajwtv
 tags: 'dzisiajwtv, przypomnienia, twitter'
 ---
-### tl;dr
-
 * System przypomnień już prawidłowo indeksuje wszystkie tweety; powinien działać dla każdego.
 * Załatane zostały drobne błędy oraz dodane reakcje skryptu na literówki w komendzie oraz wysyłanie komend w odpowiedzi na tweety z minionych dni.
 * Dodano możliwość indywidualnego wyznaczania czasu przypomnień. Składnia: _/przypomnij XX_, gdzie „XX” to czas wyrażony w minutach.
