@@ -1,11 +1,8 @@
 ---
 published: false
----
----
 layout: post
 title: Jak w Gmailu automatycznie oznaczyń zarchiwizowane wiadomości jako przeczytane
 ---
-
 Nie potrafię wytłumaczyć dlaczego (może to nerwica natręctw), ale nie lubię archiwizować w Gmailu nieprzeczytanych wiadomości. Niektórych maili nie muszę czytać, gdyż wiem co zawierają (potwierdzenia przelewów, zakupów w Play Store itp.), chcę zachować je w archiwum, ale nie lubię pozostawiać ich zaznaczonych jako nieprzeczytane.
 
 Zarówno interfejs webowy, jak i aplikacja na Androida nie pozwalają **jednym kliknięciem** zaznaczyć wiadomości jako przeczytaną oraz zarchiwizować ją. Tutaj z pomocą przychodzą Skrypty Google. Wchodzimy na https://script.google.com/, tworzymy nowy projekt, w którym umieszczamy następujący kod:
