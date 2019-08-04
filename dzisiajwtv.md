@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dzisiaj w TV
+title: 'Dzisiaj w TV: Tylko najlepsze filmy'
 permalink: /dzisiaj-w-tv/
 ---
 
