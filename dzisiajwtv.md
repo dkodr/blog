@@ -10,11 +10,11 @@ Usługa bazuje na [koncie twitterowym](https://twitter.com/dzisiajwtv), ale w gr
 
 ### **Podstawy funkcjonowania usługi**
 
-Na przestrzeni całego dnia, w odpowiednich odstępach czasowych, publikowane jest na [*Dzisiaj w TV](https://twitter.com/dzisiajwtv) *maksymalnie 10 wybranych przeze mnie filmów. Poprzedza je zwiastun składający się z trzech losowo wybranych produkcji — jego głównym celem jest wizualne oddzielenie rekomendacji filmowych z dnia bieżącego od tych pochodzących z dni poprzednich. Każdy tweet z rekomendacją zawiera: polski tytuł filmu, dwuliterowy skrót nazwy dnia, godzinę emisji, nazwę programu oraz hashtag #dzisiajwtv.
+Na przestrzeni całego dnia, w odpowiednich odstępach czasowych, publikowane jest na [*Dzisiaj w TV*](https://twitter.com/dzisiajwtv) maksymalnie 10 wybranych przeze mnie filmów. Poprzedza je zwiastun składający się z trzech losowo wybranych produkcji — jego głównym celem jest wizualne oddzielenie rekomendacji filmowych z dnia bieżącego od tych pochodzących z dni poprzednich. Każdy tweet z rekomendacją zawiera: polski tytuł filmu, dwuliterowy skrót nazwy dnia, godzinę emisji, nazwę programu oraz hashtag #dzisiajwtv.
 
 ### **Analiza popularności filmów**
 
-Rekomendacje publikowane na *Dzisiaj w TV *poddawane są analizie mającej na celu ustalenie, które z filmów były danego dnia najchętniej dodawane do ulubionych oraz retweetowane. Pozycja najbardziej popularna otrzymuje tytuł [#filmdnia](https://twitter.com/hashtag/filmdnia?src=hash) i wraz z trzema kolejnymi z zestawienia publikowana jest ponownie (w formie cytatu) w momencie rozpoczęcia emisji. W tych tweetach wykorzystywany jest hashtag [#terazwtv](https://twitter.com/hashtag/terazwtv?src=hash).
+Rekomendacje publikowane na *Dzisiaj w TV* poddawane są analizie mającej na celu ustalenie, które z filmów były danego dnia najchętniej dodawane do ulubionych oraz retweetowane. Pozycja najbardziej popularna otrzymuje tytuł [#filmdnia](https://twitter.com/hashtag/filmdnia?src=hash) i wraz z trzema kolejnymi z zestawienia publikowana jest ponownie (w formie cytatu) w momencie rozpoczęcia emisji. W tych tweetach wykorzystywany jest hashtag [#terazwtv](https://twitter.com/hashtag/terazwtv?src=hash).
 
 ### **Przypomnienia o emisji filmów**
 
