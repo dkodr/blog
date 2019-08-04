@@ -1,6 +1,7 @@
 ---
 published: true
 title: Przypomnienia @dzisiajwtv - changelog
+layout: post
 ---
 Po zeszłotygodniowych zmianach w działaniu przypomnień @dzisiajwtv, czas na kolejne poprawki.
 
