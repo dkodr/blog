@@ -1,10 +1,7 @@
 ---
 published: true
 title: Zmiany w systemie przypomnień @dzisiajwtv
-tags:
-  - dzisiajwtv
-  - przypomnienia
-  - twitter
+tags: dzisiajwtv przypomnienia twitter
 ---
 * System przypomnień już prawidłowo indeksuje wszystkie tweety; powinien działać dla każdego.
 * Załatane zostały drobne błędy oraz dodane reakcje skryptu na literówki w komendzie oraz wysyłanie komend w odpowiedzi na tweety z minionych dni.
